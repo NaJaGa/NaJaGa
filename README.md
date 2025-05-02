@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaJaGa
 - 👀 I’m interested in VideoGames and Programming
-- 🌱 I’m currently learning Highschool and programming in BYJU's
+- 🌱 I’m currently in College software Engineering
 - 💞️ I’m looking to collaborate on Coding
 - 📫 How to reach me via gmail (alonso05290@gmail.com)
 
